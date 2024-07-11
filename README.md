@@ -20,7 +20,7 @@ Make sure you have Node.js installed.
 
 
 Run the App:
-Open your browser and go to https://interactiveshoppinglist.netlify.app
+Open your browser and go to https://joyful-mandazi-9e459a.netlify.app/
 
 Code Explanation
 HTML (index.html)

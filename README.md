@@ -17,10 +17,10 @@ The index.js and css files are located in the src file.
 
 Install Dependencies:
 Make sure you have Node.js installed.
-Run npm install to install the necessary dependencies.
+
 
 Run the App:
-Open your browser and go to http://localhost:3000.
+Open your browser and go to https://interactiveshoppinglist.netlify.app
 
 Code Explanation
 HTML (index.html)

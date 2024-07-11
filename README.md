@@ -13,6 +13,7 @@ Clone the Repository:
 Clone this repository to your local machine using git clone.
 Navigate to the Project Directory:
 Open a terminal and go to the project directory.
+The index.js and css files are located in the src file.
 
 Install Dependencies:
 Make sure you have Node.js installed.
